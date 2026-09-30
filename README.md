@@ -1,5 +1,6 @@
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/TheMatic22/count.svg" alt="Trey Sims's Visitor Counter" />
-</div>
+# Hi, I'm Trey Sims 
+## Software Development | Cybersecurity | Continuous Learner 
 
+
+
+![](https://komarev.com/ghpvc/?username=TheMatic22&color=blue&style=flat-square)
