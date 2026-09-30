@@ -3,6 +3,7 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&weight=100&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi+There!+;I'm+Trey+Sims" alt="Typing SVG" /></a>
 </h1>
+<img src="https://komarev.com/ghpvc/?username=TheMatic22&color=blue&style=flat-square" alt="Profile Views" style="display: inline-block;" />   
 <h3 style="text-align: center;">Software Development | Cybersecurity | Continuous Learner</h3>
 <p>A software developer passionate about learning and developing software, making software functional, intuitive, and purposeful for all.</p>
 <ul>
@@ -18,4 +19,14 @@
   </a>
 </div>
 
-![](https://komarev.com/ghpvc/?username=TheMatic22&color=blue&style=flat-square)
+## Language and Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,nodejs,nextjs,postgres,sql,js"/> <img src="https://skillicons.dev/icons?i=html,css,sass,git,figma,adobe"/>
+</p>
+
+## Stats
+<div align=center>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=TheMatic22&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Trey's GitHub Stats" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=TheMatic22&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Trey's" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=TheMatic22&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Trey's Most Used Languages" />
+</div>
