@@ -4,7 +4,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&weight=100&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi+There!+;I'm+Trey+Sims" alt="Typing SVG" /></a>
 </h1>
 <img src="https://komarev.com/ghpvc/?username=TheMatic22&color=blue&style=flat-square" alt="Profile Views" style="display: inline-block;" />   
-</h1>Continuous Learner</h1>
+<h3><b>Software Developer | Continuous Learner | Cybersecurity</b></h3>
 <p>A software developer passionate about learning and developing software, making software functional, intuitive, and purposeful for all.</p>
 <ul>
   <li><p>I'm Currently Studying <a href="https://notebook.google.com/notebook/65c4f642-4223-47fa-af38-0006bca6626d/artifact/d0b4a63d-2189-4d34-9d44-3845ff9a3d36?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_">Network Design Protocol</a></p></li>
