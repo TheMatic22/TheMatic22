@@ -21,7 +21,7 @@
 
 ## Language and Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,nodejs,nextjs,postgres,sql,js"/> <img src="https://skillicons.dev/icons?i=html,css,sass,git,figma,adobe"/>
+  <img src="https://skillicons.dev/icons?i=java,nodejs,nextjs,sql,js"/> <img src="https://skillicons.dev/icons?i=html,css,git,figma,adobe"/>
 </p>
 
 ## Stats
