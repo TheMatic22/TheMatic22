@@ -30,3 +30,12 @@
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=TheMatic22&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Trey's" />
   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=TheMatic22&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Trey's Most Used Languages" />
 </div>
+
+## 🐍 My Contributions
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheMatic22/TheMatic22/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TheMatic22/TheMatic22/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/TheMatic22/TheMatic22/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
