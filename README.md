@@ -5,6 +5,17 @@
 </h1>
 <h3 style="text-align: center;">Software Development | Cybersecurity | Continuous Learner</h3>
 <p>A software developer passionate about learning and developing software, making software functional, intuitive, and purposeful for all.</p>
+<ul>
+  <li><p>I'm Currently Studying <a href="https://notebook.google.com/notebook/65c4f642-4223-47fa-af38-0006bca6626d/artifact/d0b4a63d-2189-4d34-9d44-3845ff9a3d36?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_">Network Design Protocol</a></p></li>
+  <li>Certification Study - Security Career <a href="https://learn.microsoft.com/en-us/plans/w1n3tj58yy2xqy?source=docs#learn-wwl-secure-networking">Microsoft Security Career Path</a></li>
+  <li>Lets Discuss: I enjoy learning Java, Python and as of recently C# <a href="https://github.com/TheMatic22">GitHub</a></li>
+</ul>
 
+<br>
+<div align="center">
+  <a href="https://www.linkedin.com/in/trey-sims-learning-initiatives/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
 
 ![](https://komarev.com/ghpvc/?username=TheMatic22&color=blue&style=flat-square)
