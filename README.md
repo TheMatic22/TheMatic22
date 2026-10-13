@@ -4,7 +4,7 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&weight=200&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi+There!+;I'm+Trey+Sims;Building+Things+With+Code" alt="Typing SVG" /></a>
 </h1>
   <!--<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&weight=100&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi+There!+;I'm+Trey+Sims" alt="Typing SVG" /></a> -->
-<img src="https://komarev.com/ghpvc/?username=TheMatic22&color=blue&style=flat-square" alt="Profile Views" style="display: inline-block;"/>  
+<img src="https://komarev.com/ghpvc/?username=TheMatic22&color=blue&style=flat-square" alt="Profile Views" style="display: inline-block"/> 
 <h3><b>Continuous Learner Driven by Intellectual Curiosity</b></h3>
 <p>A software developer passionate about learning and developing software, making software functional, intuitive, and purposeful for all.</p>
 <ul>
